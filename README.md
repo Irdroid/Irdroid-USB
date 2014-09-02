@@ -5,7 +5,13 @@ The Irdroid USB App for Android is a port of LIRC (Linux Infrared remote control
 custom infrared hardware like the Irdroid USB Infrared Transceiver, connect it to your android smartphone via a USB OTG cable and 
 control home infrared appliances like TV's STB's Airconditioners etc. 
 
-The application is perfect for Android developers who develop infrared remote control apps for Android.
+The application is perfect for Android developers who develop infrared remote control apps for Android. 
+
+App Features:
+
+* Compatible with the Irdroid USB Infrared Transceiver
+* Automatically displays remote buttons from a lirc conf file
+* Status LOG (for Debug)
 
 The App supports the following hardware:
 

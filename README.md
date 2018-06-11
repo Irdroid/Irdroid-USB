@@ -12,8 +12,10 @@ App Features:
 * Compatible with the Irdroid USB Infrared Transceiver
 * Automatically displays remote buttons from a lirc conf file
 * Status LOG (for Debug)
+* Recording mode
+* Converted to Android Studio project
 
 The App supports the following hardware:
 
-* USB Infrared Transceiver ( http://www.irdroid.com) | connected with USB OTG Cable
+* USB Infrared Transceiver ( http://www.irdroid.com) | connected with USB OTG Cable or directly to USB A port of any Android STB
 * DP USB IR TOY | Connected with USB OTG cable

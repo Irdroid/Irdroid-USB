@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\bakalski\\Desktop\\Irdroid USB_modified1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bakalski\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\c5f5219961ba002ce91220a33c2105df\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "4,11,12,13,19,27,28,29,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "290,796,867,950,1360,2007,2127,2190,2344,2407",
+                        "endLines": "8,11,12,18,24,27,28,31,32,33",
+                        "endColumns": "12,70,82,12,12,119,62,12,62,131",
+                        "endOffsets": "561,862,945,1355,1777,2122,2185,2339,2402,2534"
+                    },
+                    "to": {
+                        "startLines": "5,10,11,12,18,24,25,26,29,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "186,462,533,616,1026,1448,1568,1631,1785,1848",
+                        "endLines": "9,10,11,17,23,24,25,28,29,30",
+                        "endColumns": "12,70,82,12,12,119,62,12,62,131",
+                        "endOffsets": "457,528,611,1021,1443,1563,1626,1780,1843,1975"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bakalski\\Desktop\\Irdroid USB_modified1\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "353"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "181"
+                    }
+                }
+            ]
+        }
+    ]
+}

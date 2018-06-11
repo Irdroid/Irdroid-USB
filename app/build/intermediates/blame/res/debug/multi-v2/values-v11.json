@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\bakalski\\Desktop\\Irdroid USB_modified1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\bakalski\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\c5f5219961ba002ce91220a33c2105df\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "4,10,16,22,28,34,42,43,44,49,56,58,62,63,64,115,169",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "290,709,1134,1562,1988,2415,3070,3159,3260,3668,4318,4425,4784,4855,4938,8646,12724",
+                        "endLines": "9,15,21,27,33,39,42,43,48,53,57,59,62,63,114,166,169",
+                        "endColumns": "12,12,12,12,12,12,88,100,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "704,1129,1557,1983,2410,2835,3154,3255,3663,4083,4420,4549,4850,4933,8641,12489,12810"
+                    },
+                    "to": {
+                        "startLines": "5,11,17,23,29,35,41,42,43,48,53,55,57,58,59,110,162",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "187,606,1031,1459,1885,2312,2737,2826,2927,3335,3755,3862,3991,4062,4145,7853,11701",
+                        "endLines": "10,16,22,28,34,40,41,42,47,52,54,56,57,58,109,161,162",
+                        "endColumns": "12,12,12,12,12,12,88,100,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "601,1026,1454,1880,2307,2732,2821,2922,3330,3750,3857,3986,4057,4140,7848,11696,11787"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bakalski\\Desktop\\Irdroid USB_modified1\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "182"
+                    }
+                }
+            ]
+        }
+    ]
+}
